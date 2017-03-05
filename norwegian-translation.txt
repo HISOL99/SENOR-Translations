@@ -1,0 +1,26 @@
+		no_nb:  {	
+				"bYearInVahidMeaning": { "message": ",A,B,Far,D,Port,V,Evighet,Generøsitet,Stråleglans,Kjærlilghet,Behagelig,Svar,Enkel,Frikostelig,Kjærrlighet,Begynnelse,Strålende,Det mest strålende,Enhet", "description": "Vahid navn, som begynner , " },
+				"bMonthMeaning": { "message": "Innskutte dager dager,Stråleglans,Herlighet,Skjønnhet,Storhet,Lys,Barmhjertighet,Ord,Fullkommenhet,Navn,Makt,Vilje,Kunnskap,Kraft,Tale,Spørsmål,Ære,Myndighet,Herrevelde,Opphøyethet", "description": "Dagenes navn/måneder, den første begynner med Ayyám-i-Há" },
+				"bWeekdayMeaning": { "message": ",Herlighet,Skjønnhet,Fullkommenhet,Eleganse,Rettferdighet,Majestet,Uavhengighet", "description": "start med Herlighet" },
+				"gWeekdayLong": { "message": "Søndag,Mandag,Tirsdag,Onsdag,Torsdag,Fredag,Lørdag", "description": "start med Skjønnhet" },
+				"gWeekdayShort": { "message": "Søn,Man,Tir,Ons,Tor,Fre,Lør", "description": "start ved solnedang" },
+				"gMonthLong": { "message": "januar,februar,mars,april,maj,juni,juli,august,september,oktober,november,desember", "description": "" },
+				"gMonthShort": { "message": "jan,feb,mar,apr,mai,juni,jul,aug,sep,okt,nov,des", "description": "" },
+
+				"eraLong": { "message": "Bahá'í-æra", "description": "" },
+				"eraAbbrev": { "message": "E.B.", "description": "" },
+				"eraShort": { "message": "EB", "description": "" },
+				"ordinal": { "message": ".,.,.,.", "description": "x,1,2,3" },
+				"ordinalNames": { "message": ",første,andre,tredje,fjerde,femte,sjette,syvende,åttende,niende,tiende,ellevte,tolvte,trettende,fjortende,femtende,sekstende,syttende,attende,nittende", "description": "" },
+				"nearestSunsetEve": { "message": "{dayStarted} med solnedgång vid {startingSunsetDesc}", "description": "" },
+				"nearestSunsetDay": { "message": "{dayEnded} med solnedgng vid {endingSunsetDesc}", "description": "" },
+
+				"afterSunset": { "message": "kväll - efter solnedgång", "description": "" },
+				"beforeSunset": { "message": "dag - innan solnedgång", "description": "" },
+				"dayStartedFuture": { "message": "Startar", "description": "" },
+				"dayStartedPast": { "message": "Startad", "description": "" },
+				"dayEndedFuture": { "message": "Slutar", "description": "" },
+				"dayEndedPast": { "message": "Avslutad", "description": "" },
+
+				"elements": { "message": "Feu,Air,Eau,Terre", "description": "temporary translation - please replace! The Bab's designations, found in 'https://books.google.ca/books?id=XTfoaK15t64C&pg=PA394&lpg=PA394&dq=get+of+the+heart+nader+bab&source=bl&ots=vyF-pWLAr8&sig=ruiuoE48sGWWgaB_AFKcSfkHvqw&hl=en&sa=X&ei=hbp0VfGwIon6oQSTk4Mg&ved=0CDAQ6AEwAw#v=snippet&q=%22air%20of%20eternity%22&f=false' " },
+        },
